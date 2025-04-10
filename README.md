@@ -1,5 +1,7 @@
 ## Olá! Sou Murilo Melo
 
+<img align="center" width=100% src="https://github.com/RicardoMouraa/RicardoMouraa/assets/106688139/a23c252f-6a3d-42d8-96a0-0d6a3839fb96"/>
+
 ## Sobre mim
 
 - 🤔 Explorando soluções inteligentes para problemas complicados
