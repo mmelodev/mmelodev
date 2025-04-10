@@ -35,8 +35,13 @@
   <img width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmelodev&show_icons=true&theme=dracula&layout=compact" alt="Top Languages" />
 </a>
 
-## Onde me encontrar
+### Redes Sociais
+<div align="center">
+<a href="https://www.instagram.com/devmuri/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="mailto:murilomelomd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/muriloms01/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</div>
 
-[![Linkedin](https://img.shields.io/badge/-muriloms01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muriloms01/)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-murilomelomd@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murilomelomd@gmail.com)](mailto:murilomelomd@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/mmelodev)
+---
+
+<p align="center">Vamos colaborar e realizar projetos incríveis juntos!</p>
