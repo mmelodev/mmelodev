@@ -1,6 +1,6 @@
 ## Olá! Sou Murilo Melo
 
-<img align="center" width=100% src="https://drive.google.com/file/d/1icakpA9KWynkgvuqau_w8jy0l3VNY3c6/view?usp=sharing"/>
+<img align="center" width=100% src=""/>
 
 ## Sobre mim
 
