@@ -23,7 +23,6 @@
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Wix](https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white)
 ![Loja Integrada](https://img.shields.io/badge/Loja%20Integrada-007ACC?style=for-the-badge&logoColor=white)
-![Tray](https://img.shields.io/badge/Tray-E34F26?style=for-the-badge&logoColor=white)
 
 ### Ferramentas de Design:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
