@@ -4,7 +4,7 @@
 
 ## Sobre mim
 
-- 🤔 Explorando soluções inteligentes para problemas complicados
+- 🤔 Explorando interfaces criativas e inteligentes para diferentes negócios.
 - 🎓 Gosto de estudar e trabalhar com tudo que envolve arquitetura de software, design, experiência de usuário e pensamento criativo.
 - 💼 Trabalhando como Desenvolvedor Full-Stack Freelancer.
 - 🌱 Aprendendo mais sobre JavaScript, Java, UX/UI e Banco de Dados MySQL.
