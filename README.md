@@ -34,9 +34,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mmelodev&theme=dracula&show_icons=true" />
   <img width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmelodev&show_icons=true&theme=dracula&layout=compact" alt="Top Languages" />
 </a>
-
-### Redes Sociais
-<div align="center">
-<a href="mailto:murilomelocoder@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://www.linkedin.com/in/muriloms01/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</div>
