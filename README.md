@@ -5,7 +5,7 @@
     <tr>
       <td width="50%" valign="top">
         
-<img width="100%" src="https://raw.githubusercontent.com/mmelodev/mmelodev/refs/heads/main/1.png" alt="Coding GIF" />
+<img width="100%" src="https://raw.githubusercontent.com/mmelodev/mmelodev/refs/heads/main/pixel-game.gif" alt="Coding GIF" />
 
   </td>
   <td width="50%" valign="top">
