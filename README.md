@@ -12,8 +12,7 @@
 
 ## about me:
 **java developer**
-
-I am currently study computer science at UFRA, but I enjoy anything related to programming. At the moment, I'm working as a full-stack java developer.
+I enjoy anything about make cool stuff with programming. At the moment, I'm working as a full-stack java developer and currently study computer science at UFRA.
 
 **stack:**
 - **java 21, spring, mysql, javascript, html, css, node.js**
