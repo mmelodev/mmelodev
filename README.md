@@ -1,4 +1,4 @@
-# Hello I'm Murilo!
+# Murilo Melo
 
 <div align="left">
   <table border="0">
@@ -11,11 +11,11 @@
   <td width="50%" valign="top">
 
 ## about me:
-**java developer**
-I enjoy anything about make cool stuff with programming. At the moment, I'm working as a full-stack java developer and currently study computer science at UFRA.
+**Software Engineer**
+I'm a developer with a passion for building cool things through curiosity. I focus on crafting creative and well-structured solutions, building my career around developing systems for different companies and startups. Currently pursuing a degree in Computer Science at UFRA, I am committed to growing both academically and professionally in the field.
 
 **stack:**
-- **java 21, spring, mysql, javascript, html, css, node.js**
+- **java, spring, mysql / postgresql, javascript, html, css, node.js, typescript, react**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmelodev&layout=compact)
 
