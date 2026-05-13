@@ -11,7 +11,8 @@
   <td width="50%" valign="top">
 
 ## about me:
-**Software Engineer**
+**Software Engineer** 
+</br>
 I'm a developer with a passion for building cool things through computer science. Currently pursuing a degree in Computer Science at UFRA, I am committed to growing both academically and professionally in the field. Here you’ll find projects, tutorials, and my experiments with AI, Java, Cloud, and more :) 
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
