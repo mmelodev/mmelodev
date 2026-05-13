@@ -12,21 +12,20 @@
 
 ## about me:
 **Software Engineer**
-I'm a developer with a passion for building cool things through curiosity. I focus on crafting creative and well-structured solutions, building my career around developing systems for different companies and startups. Currently pursuing a degree in Computer Science at UFRA, I am committed to growing both academically and professionally in the field.
+I'm a developer with a passion for building cool things through computer science. Currently pursuing a degree in Computer Science at UFRA, I am committed to growing both academically and professionally in the field. Here you’ll find projects, tutorials, and my experiments with AI, Java, Cloud, and more :) 
 
-[LICENSE__BADGE]: https://img.shields.io/github/license/Fernanda-Kipper/Readme-Templates?style=for-the-badge
-[JAVASCRIPT__BADGE]: https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript
-[TYPESCRIPT__BADGE]: https://img.shields.io/badge/typescript-D4FAFF?style=for-the-badge&logo=typescript
-[EXPRESS__BADGE]: https://img.shields.io/badge/express-005CFE?style=for-the-badge&logo=express
-[VUE__BADGE]: https://img.shields.io/badge/VueJS-fff?style=for-the-badge&logo=vue
-[NEST__BADGE]: https://img.shields.io/badge/nest-7026b9?style=for-the-badge&logo=nest
-[GRAPHQL__BADGE]: https://img.shields.io/badge/GraphQL-e10098?style=for-the-badge&logo=graphql
-[JAVA_BADGE]:https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
-[SPRING_BADGE]: https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white
-[MONGO_BADGE]:https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
-[AWS_BADGE]:https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
-[PYTHON_BADGE]:https://img.shields.io/badge/Python-3.11.9-blue?style=for-the-badge&logo=python&logoColor=lightskyblue
-[PRS_BADGE]:https://img.shields.io/badge/PRs-welcome-green?style=for-the-badge
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![POSTGRE](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![SPRING](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 </td>
   </tr>
